@@ -11,7 +11,7 @@ st.set_page_config(
 
 # App Header
 st.title("🌉 構造物亀裂自動解析・補修アドバイザー")
-st.markdown("### 4年次 卒業研究 (Sotsugyo Kenkyu)")
+st.markdown("### 4年次 卒業研究 (Puskar personal Sotsugyo Kenkyu)")
 st.write("道路や橋梁の亀裂画像をアップロードしてください。AIが亀裂の深刻度を自動測定し、最適な補修方法を提案します。")
 
 st.markdown("---")
